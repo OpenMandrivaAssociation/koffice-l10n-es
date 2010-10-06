@@ -1,5 +1,5 @@
 Name: koffice-l10n-es
-Version: 2.2.81
+Version: 2.2.82
 Release: %mkrel 1
 Summary: Language files for KOffice Spanish
 Group: System/Internationalization
